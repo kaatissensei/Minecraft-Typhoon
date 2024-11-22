@@ -1,2 +1,2 @@
 # Minecraft-Typhoon
- MCT
+ Minecraft Floods and Tornados aka Minecraft Typhoon
